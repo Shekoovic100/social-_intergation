@@ -7,4 +7,4 @@
  after login display all details such as:\
  username, EmailAdddress , photo ,etc 
  
- with some of beautiful ui using help of  UIkit and storyBoards
+ with some of  ui using help of  UIkit and storyBoards
